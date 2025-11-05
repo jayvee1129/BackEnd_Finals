@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['http://127.0.0.1:8000/','127.0.0.1:8000','127.0.0.1','http://192.168.56.1', 'https://backend-finals-7h5e.onrender.com', 'backend-finals-7h5e.onrender.com']
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://backend-finals-7h5e.onrender.com/',
+    'https://backend-finals-7h5e.onrender.com',
 ]
 
 # Application definition
